@@ -14,7 +14,7 @@
 
 all: build
 
-REGISTRY ?= staging-k8s.gcr.io
+REGISTRY ?= gcr.io/aishs-project-1
 IMAGE ?= debian-base
 BUILD_IMAGE ?= debian-build
 

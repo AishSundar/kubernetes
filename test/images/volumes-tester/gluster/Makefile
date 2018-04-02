@@ -13,7 +13,7 @@
 # limitations under the License.
 
 TAG = 0.4
-PREFIX = staging-k8s.gcr.io
+PREFIX?=staging-k8s.gcr.io
 
 all: push
 

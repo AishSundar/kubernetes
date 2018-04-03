@@ -70,7 +70,7 @@ spec:
       k8s.gcr.io/update-demo:kitten
       k8s.gcr.io/update-demo:nautilus
       k8s.gcr.io/volume-ceph:0.1
-      k8s.gcr.io/volume-gluster:0.2
+      gcr.io/kubernetes-e2e-test-images/volume-gluster:0.2
       k8s.gcr.io/volume-iscsi:0.1
       k8s.gcr.io/volume-nfs:0.8
       k8s.gcr.io/volume-rbd:0.1
